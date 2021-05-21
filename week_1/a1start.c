@@ -32,6 +32,6 @@ int main()
         count = count + 1;
         sum = sum + addToSum;
     } while (sum < 50);
-    printf("The sum is %d and the number of values inputed is %d", sum, count);
+    printf("The sum is %d and the number of values inputted is %d", sum, count);
     return 0;
 }
